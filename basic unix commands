@@ -1,0 +1,16 @@
+21.png  : pwd    this command writes the full pathname of the current directory to the standard output
+22.png : vi    this command to create the file , it is an editor 
+23.png:  touch    It is used to update the  access date  or modification  date of a file or directory
+24.png : mkdir   it ll create a directory
+25.png : rm      It will remove the file  not a directory
+26.png : ls  --  it will list all the files in the directory
+27.png : echo  --  It ll  display  the information
+28.png :   cat -- It ll display contents of file , and it can be used to create a file using  >>
+29.png :  who -- displays the list of users , who are currently logged in
+210.png :  cd -- to change the directory
+211.png date--  displays the date date
+212.png: cal --  displays the calender
+213.png : cp --  copies the files from one directory to other
+214.png : mv-- it ll move the files from one directory to other
+
+215.png and 216.png : To identify the location of executables, it ll take one or more argument and it will give the  full path of the executable
